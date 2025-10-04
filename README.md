@@ -1,4 +1,7 @@
 # GUB Transport Pass
+<p align="center">
+  <img src="https://media.giphy.com/media/j5QcmXoFWl4Q0/giphy.gif" alt="Bus Animation" width="300"/>
+</p>
 
 GUB Transport Pass is a digital solution designed to simplify and modernize the university transport pass system for Green University of Bangladesh (GUB) students.
 
